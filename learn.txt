@@ -1,7 +1,14 @@
-2024_4_11 I study git for the first time
+2024_4_11 
+I study git for the first time
 touch learn.txt
 git add example.txt
 git commit -m "explain this .txt"
 git status
 git diff learn.txt
+change
+git log
+git log --pretty=oneline
+git reset --hard HEAD^
+git reset --hard 1094a
+git reflog
 
