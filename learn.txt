@@ -1,2 +1,7 @@
 2024_4_11 I study git for the first time
-aha
+touch learn.txt
+git add example.txt
+git commit -m "explain this .txt"
+git status
+git diff learn.txt
+
