@@ -12,3 +12,6 @@ git reset --hard HEAD^
 git reset --hard 1094a
 git reflog
 
+git remote add origin git@githun.com:wlhlyc/learngit.git
+
+git push -u origin master
